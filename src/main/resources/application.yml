@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: service2
+urlService : localhost
+server:
+    port: 7076
+logging:
+    file: ./log.log
