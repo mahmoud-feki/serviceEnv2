@@ -20,7 +20,7 @@ public class Controller {
 
     @GetMapping
     public ArticleInfo getArticle(String id) {
-        ArticleInfo article = new ArticleInfo("1", 10);
+        ArticleInfo article = new ArticleInfo("2", 10);
 
         return article;
     }
